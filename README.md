@@ -6,6 +6,7 @@ The objective of this project is to build a “Book Recommendation System” tha
 ### Data Used Kaggle Data: 271k books, 279k Users, 1.1MReviews 
 * Book Data Labels: ISBN, Book-Title, Book-Author, Publisher, Year-of-Publication, Image-URL 
 * Rating Data Labels: UserID, ISBN, Rating; User Data: User-ID, Location, Age 
+
 Since there isn’t a lot of book meta-data in this dataset, we extract information on ‘Book Description’, ‘Also Bought’ and ‘Also Viewed’ using data from Amazon.
 
 ### Approach 
